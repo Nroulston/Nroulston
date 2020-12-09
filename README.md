@@ -13,7 +13,7 @@
 
 <hr>
 
-[![Nico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nroulston&show_icons=true)](https://github.com/nroulston)
+[![Nico's github stats](https://github-readme-stats.vercel.app/api?username=Nroulston)]
 
 
 <div>
