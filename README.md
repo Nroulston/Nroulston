@@ -7,17 +7,29 @@
 
 I am a software engineer, brewer, father, doer. One of my strengths is going into every endeavor knowing I do not have experience in it yet, but through grit, desire to learn, thoughtful action, and maybe a little stuborness I can accomplish whatever I set my mind to. 
 
-Currently I am obsessed with Rails and the magic of Stimulus, Stimulus Reflex, and Cable Ready. I watched this video on Turbolinks that made the complexity of microservices just seem like the a comedy about a blind date you went on to cancun. It sounded great in the beggining and then it gets out of control. 
+Currently I am obsessed with Rails and the magic of Stimulus, Stimulus Reflex, and Cable Ready. I watched this video on Turbolinks that made the complexity of microservices just seem like the a comedy about a blind date you went on to cancun. It sounded great in the beginning and then it gets out of control. 
 
 Honestly I truly just love to code and make cool stuff be that Rails, React, Ruby, Javascript, or whatever new language I get to work with next.  
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nico-roulston) || nicolas.roulston@gmail.com 
-- ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I am today. Shout out to Pops here! 
+- ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to Pops here! 
 
 
-<h3>🛠 To Learn</h3>
+<hr>
 
-- 🔧 &nbsp; Sidekiq | Docker | DevOps | Stimulus
+## Currently working on
+
+<ul>
+  <li><a href="https://github.com/bitSizedGood/">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
+  <li>WIP[Personal Portfolio](https://nico-roulston-portfolio.herokuapp.com/) - Give it a moment to spin up</li>
+  <ul> 
+    <li>Tech Used -Stimulus Reflex, Rails, Redis</li>
+  </ul>
+</ul>
+
+<hr>
+
+## Currently working on
 
 <hr>
 
