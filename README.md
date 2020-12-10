@@ -24,27 +24,32 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
   <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
   <ul>
     <li>Tech Used - Stimulus Reflex, Rails, Redis</li>
-    <li>Projects in progress</li>
-      <ul> 
-        <li> Kids in Tech - UX Discovery </li>
-      </ul>
   </ul>
+  <li>Contributing to View Component repo </li>
+  <li>Deploying my projects</li>
+  <li>LeetCode Daily</li>
+  <li>Ruby Koans</li>
 </ul>
 
 <hr>
 
-## Currently working on
+## Want to learn
+
+<ul>
+  <li> Master Stimulus Reflex, Ruby 3, and how to build a testable, well written monolith</li>
+  <li> How to build the WiiBoy </li>
+  <li> How to grow hydroponic hops</li>
+</ul>
 
 <hr>
 
-<div>
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nroulston&show_icons=true)
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="300" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nroulston&show_icons=true)
-</div>
 
 
-<hr>
+
 
 
 
