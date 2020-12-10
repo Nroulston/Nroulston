@@ -14,9 +14,6 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nico-roulston) || nicolas.roulston@gmail.com 
 - ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to Pops here! 
 
-
-<hr>
-
 ## Currently working on
 
 <ul>
@@ -31,8 +28,6 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
   <li>Ruby Koans</li>
 </ul>
 
-<hr>
-
 ## Want to learn
 
 <ul>
@@ -40,8 +35,6 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
   <li> How to build the WiiBoy </li>
   <li> How to grow hydroponic hops</li>
 </ul>
-
-<hr>
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nroulston&show_icons=true)
