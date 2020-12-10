@@ -20,15 +20,14 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 ## Currently working on
 
 <ul>
-  <li><a href="https://github.com/bitSizedGood/">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
+  <li><a href="https://github.com/bitSizedGood/bitSizedGood">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
   <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
-  <ul> 
+  <ul>
     <li>Tech Used - Stimulus Reflex, Rails, Redis</li>
     <li>Projects in progress</li>
-    <ul> 
-    <li> Kids in Tech - UX Discovery </li>
-    
-    </ul>
+      <ul> 
+        <li> Kids in Tech - UX Discovery </li>
+      </ul>
   </ul>
 </ul>
 
