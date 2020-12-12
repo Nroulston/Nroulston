@@ -7,12 +7,12 @@
 
 I am a software engineer, brewer, father, doer. One of my strengths is going into every endeavor knowing I do not have experience in it yet, but through grit, desire to learn, thoughtful action, and maybe a little stuborness I can accomplish whatever I set my mind to. 
 
-Currently I am obsessed with Rails and the magic of Stimulus, Stimulus Reflex, and Cable Ready. I watched this video on Turbolinks that made the complexity of microservices just seem like the a comedy about a blind date you went on to cancun. It sounded great in the beginning and then it gets out of control. 
+Currently I am obsessed with Rails and the magic of Stimulus, Stimulus Reflex, and Cable Ready. I watched this video on Turbolinks that made the complexity of microservices just seem like a comedy about a blind date you went on to Cancun. It sounds great in the beginning and then it gets out of control. 
 
 Honestly I truly just love to code and make cool stuff be that Rails, React, Ruby, Javascript, or whatever new language I get to work with next.  
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nico-roulston) || nicolas.roulston@gmail.com 
-- ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to Pops here! 
+- ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to the man I lovingly call Dadio! 
 
 ## Currently working on
 
