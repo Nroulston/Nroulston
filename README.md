@@ -20,7 +20,7 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
   <li><a href="https://github.com/bitSizedGood/bitSizedGood">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
   <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
   <ul>
-    <li>Tech Used - Stimulus Reflex, Rails, Redis</li>
+    <li>Tech Used - Stimulus Reflex, Rails, Redis, Custom Form Builder</li>
   </ul>
   <li>Contributing to View Component repo </li>
   <li>Deploying my projects</li>
