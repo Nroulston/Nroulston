@@ -17,12 +17,13 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 ## Currently working on
 
 <ul>
+  <li> Learning Rspec to impliment BDD of my code - <a href="https://github.com/Nroulston/learn_rspec">Repo</a> of my notes and progression through Effective Testing with Rspec 3</li>
   <li><a href="https://github.com/bitSizedGood/bitSizedGood">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
   <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
   <ul>
     <li>Tech Used - Stimulus Reflex, Rails, Redis, Custom Form Builder</li>
   </ul>
-  <li>Contributing to View Component repo </li>
+
   <li>Deploying my projects</li>
   <li>LeetCode Daily</li>
   <li>Ruby Koans</li>
@@ -32,6 +33,7 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 
 <ul>
   <li> Master Stimulus Reflex, Ruby 3, and how to build a testable, well written monolith</li>
+  <li>Contributing to View Component repo </li>
   <li> How to build the WiiBoy </li>
   <li> How to grow hydroponic hops</li>
 </ul>
