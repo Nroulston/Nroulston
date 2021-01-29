@@ -15,16 +15,16 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 - ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to the man I lovingly call Dadio! 
 - Check out my latest blog here. https://nroulston.github.io/progress_isnt_always_what_you_expected
 
-## Currently working on 1/9/2021
+## Currently working on 1/29/2021
 
 <ul>
   <li> Learning Rspec to impliment BDD of my code</li>
   <li><a href="https://github.com/bitSizedGood/bitSizedGood">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
  <ul>
    <li> Working with Designer handoff to make Self Love Beauties site </li>
-   <li> Bringing over all Wordpress Content to Webflow</li>
-   <li> Integrate with Constanct Contact API using javascript written with the constraints of Webflow </li>
+   <li> Integrate Foxy Eccommerce solution with Webflow CMS for auto inventory and correct sale pricing - javascript</li>
    <li> Work with UI designers of Kids in Tech to impliment a style system, component design, and agile design process to speed up delivery of our project. </li>
+   <li> Build Dynamic form with Javascript,HTML, and CSS</li>
  </ul>
  <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
    <ul>
