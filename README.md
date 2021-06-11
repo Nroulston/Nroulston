@@ -15,7 +15,7 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 - ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to the man I lovingly call Dadio! 
 - Check out my latest blog here. https://nroulston.github.io/progress_isnt_always_what_you_expected
 
-## Currently working on 1/29/2021
+## Currently working on 6/10/2021
 
 <ul>
   <li> Graphql</li>
