@@ -18,15 +18,10 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 ## Currently working on 1/29/2021
 
 <ul>
-  <li> Learning Rspec to impliment BDD of my code</li>
-  <li><a href="https://github.com/bitSizedGood/bitSizedGood">BitSized Good</a>- Organizing a group of Flatiron grads from cross disciplines to work on projects for nonprofits to gain experience working on a team. Recently teamed up with <a href="https:///ww.uxrescue.org">UX Rescue</a> to begin working on projects together.</li>
- <ul>
-   <li> Working with Designer handoff to make Self Love Beauties site </li>
-   <li> Integrate Foxy Eccommerce solution with Webflow CMS for auto inventory and correct sale pricing - javascript</li>
-   <li> Work with UI designers of Kids in Tech to impliment a style system, component design, and agile design process to speed up delivery of our project. </li>
-   <li> Build Dynamic form with Javascript,HTML, and CSS</li>
- </ul>
- <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
+  <li> Graphql</li>
+  <li> Speeding up local test suite Using TestProf, Parallel-Spec, and Guard with hopes of decreasing CI time as well' </li>
+  <li> Growing lions mane mushrooms </li>
+  <li> WIP <a href="https://nico-roulston-portfolio.herokuapp.com">Personal Portfolio</a>  Give it a moment to spin up</li>
    <ul>
      <li>Tech Used - Stimulus Reflex, Rails, Redis, Custom Form Builder</li>
    </ul>
