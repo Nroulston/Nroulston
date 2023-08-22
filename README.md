@@ -13,12 +13,12 @@ Honestly I truly just love to code and make cool stuff be that Rails, React, Rub
 - ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to the man I lovingly call Dadio! 
 
 
-## Currently working on 2/17/2022
+## Currently working on 8/21/2023
 
 <ul>
-  <li> Fixing our test suite </li>
-  <li> Speeding up local test suite Using TestProf, Parallel-Spec, and Guard with hopes of decreasing CI time as well' </li>
-  <li> Growing lions mane mushrooms </li>
+  <li> Reading 99 bottles of OOP </li>
+  <li> Reading Building a second brain and improving my orginazation / note skills </li>
+  <li> Enacting an organziational shift around our current homebrewed comand object pattern that requires more ceremony than it's worth and obscures the problems we are actually trying to solve with service objects masked as command objects</li>
 </ul>
 
 ## Want to learn
