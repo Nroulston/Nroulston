@@ -10,6 +10,7 @@ I am a software engineer, brewer, father, doer. One of my strengths is going int
 Honestly I truly just love to code and make cool stuff be that Rails, React, Ruby, Javascript, or whatever new language I get to work with next.  
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nico-roulston) || nicolas.roulston@gmail.com 
+- My first, and will not be the last ruby presentation [Winemaking, Biking, Testing](https://www.youtube.com/watch?v=C54N-RkWidY)
 - ⚡ Fun fact: [I was on tv](https://www.youtube.com/watch?v=Ybjn4kynyzk&t=2s) - To this day this is the accomplishment I am most proud of. Helping my father produce this built the base of who I have become. Shout out to the man I lovingly call Dadio! 
 
 
